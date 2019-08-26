@@ -1,0 +1,8 @@
+D:\cSharp-master\cSharp-master\cSharpProject\BankManagementUser\obj\Debug\BankManagementUser.csprojResolveAssemblyReference.cache
+D:\cSharp-master\cSharp-master\cSharpProject\BankManagementUser\obj\Debug\BoothMainScreen.g.cs
+D:\cSharp-master\cSharp-master\cSharpProject\BankManagementUser\obj\Debug\MainWindow.g.cs
+D:\cSharp-master\cSharp-master\cSharpProject\BankManagementUser\obj\Debug\UserAuthentication.g.cs
+D:\cSharp-master\cSharp-master\cSharpProject\BankManagementUser\obj\Debug\App.g.cs
+D:\cSharp-master\cSharp-master\cSharpProject\BankManagementUser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\cSharp-master\cSharp-master\cSharpProject\BankManagementUser\obj\Debug\BankManagementUser_MarkupCompile.cache
+D:\cSharp-master\cSharp-master\cSharpProject\BankManagementUser\obj\Debug\BankManagementUser_MarkupCompile.lref
